@@ -48,7 +48,7 @@ const LoginSignup = () => {
       }
     } catch (error) {
       console.error('Login error:', error);
-      alert('Something went wrong');
+      alert('Something went wrong!');
     }
   };
   
